@@ -1,0 +1,1 @@
+/Users/Station22/Desktop/workspace/Ember/snow-app/app/components/bear-list/component.js

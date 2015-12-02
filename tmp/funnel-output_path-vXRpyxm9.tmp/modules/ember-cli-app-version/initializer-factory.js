@@ -1,0 +1,1 @@
+/Users/Station22/Desktop/workspace/Ember/snow-app/tmp/funnel-input_base_path-Dwm7IvEA.tmp/0/initializer-factory.js

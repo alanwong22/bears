@@ -1,0 +1,1 @@
+/Users/Station22/Desktop/workspace/Ember/snow-app/tmp/broccoli_merge_trees-input_base_path-fI7PPEQc.tmp/0/router.jshint.js
