@@ -1,1 +1,0 @@
-/Users/Station22/Desktop/workspace/Ember/snow-app/bower_components/ember-cli-test-loader/test-loader.js

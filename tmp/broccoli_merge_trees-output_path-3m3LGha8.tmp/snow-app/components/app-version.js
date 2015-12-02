@@ -1,1 +1,0 @@
-/Users/Station22/Desktop/workspace/Ember/snow-app/node_modules/ember-cli-app-version/app/components/app-version.js
